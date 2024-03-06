@@ -1,10 +1,17 @@
 {
-	"label": "Test123",
-	"description": "Test123 ",
-	"isbns": [
-		"9781761471018",
-		"9781035901289",
-		"9781922930439"
-		
-	]
+    "label": "Stella Prize Winners",
+    "description": "The Stella Prize is a major literary award celebrating Australian women’s writing. ",
+    "isbns": [
+        "9780702265501",
+        "9781922182548",
+        "9780702263187",
+        "9781761045301",
+        "9781760641405",
+        "9781460758250",
+        "9781925336337",
+        "9781760633394",
+        "9781760877071",
+        "9781922626769",
+        "9781742610764"
+    ]
 }
